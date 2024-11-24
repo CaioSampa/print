@@ -1,1 +1,1 @@
-Aqui são alguns exercicios da escola 42, junto comigo praticando um pouco de C.
+Aqui são alguns exercicios da escola 42, e praticando um pouco de C.
